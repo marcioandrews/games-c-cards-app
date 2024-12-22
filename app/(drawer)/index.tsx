@@ -130,7 +130,7 @@ let hasRequestedReview = false;
 
 const COMPONENTS: ComponentItem[] = [
   {
-    name: 'Picker',
+    name: 'Pickerr',
     component: function PickerExample() {
       const { colors } = useColorScheme();
       const [picker, setPicker] = React.useState('blue');
